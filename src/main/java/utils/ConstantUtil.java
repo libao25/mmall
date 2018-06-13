@@ -5,4 +5,5 @@ package utils;
  */
 public class ConstantUtil {
     public static final int CODE=1;
+    public static final int CODE2=2;
 }
